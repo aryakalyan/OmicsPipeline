@@ -1,5 +1,4 @@
 # OmicsPipeline
-This repository contains Python implementations of fundamental bioinformatics algorithms used in genomics, proteomics, and structural biology.
 A collection of bioinformatics scripts for sequence analysis, structural biology, and data visualization.
 # 🔬 Bioinformatics Algorithms 🚀  
 
